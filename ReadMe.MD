@@ -16,3 +16,10 @@ Generally:
 
 
 **Takeaways**
+
+Public Records
+
+Loan Performance
+
+Modeling Approach
+- Estimate 
